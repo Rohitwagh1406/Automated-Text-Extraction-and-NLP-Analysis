@@ -22,10 +22,10 @@ except LookupError:
 # PATH CONFIGURATION (LOCAL)
 # --------------------------------------------------
 
-INPUT_FILE = "20211030 Test Assignment/Input.xlsx"
-STOPWORDS_FOLDER = "20211030 Test Assignment/StopWords"
-MASTER_DICT_FOLDER = "20211030 Test Assignment/MasterDictionary"
-ARTICLE_FOLDER = "20211030 Test Assignment/extracted_articles"
+INPUT_FILE = "src/Input.xlsx"
+STOPWORDS_FOLDER = "src/StopWords"
+MASTER_DICT_FOLDER = "srct/MasterDictionary"
+ARTICLE_FOLDER = "src/extracted_articles"
 OUTPUT_FILE = "Output Data Structure.xlsx"
 
 # Network / retry configuration
